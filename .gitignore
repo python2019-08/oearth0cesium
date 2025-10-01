@@ -1,0 +1,15 @@
+build/
+build_by_sh/
+tmp.md
+b*.txt
+
+
+3rd/cesium-native
+3rd/CSPRNG
+3rd/modp_b64
+3rd/ms-gsl
+3rd/osg
+3rd/osgdraco
+3rd/osgearth
+3rd/s2geometry
+3rd/uriparser
